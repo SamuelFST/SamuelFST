@@ -2,7 +2,7 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFST&hide=html&layout=compact&theme=tokyonight" /></td>
+        <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFST&hide=html&layout=compact&theme=tokyonight" />
     </tr>   
 </table>
 </center>
