@@ -14,7 +14,7 @@ Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas no centr
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-fernando-45b4211b1/)](https://www.linkedin.com/in/samuel-fernando-45b4211b1/)
+## Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-fernando-45b4211b1/)](https://www.linkedin.com/in/samuel-fernando2002/)
 
 <center>
 <table>
