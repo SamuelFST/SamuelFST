@@ -2,10 +2,11 @@
 
 Eu sou o Samuel Fernando! 😀
 
-Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas no centro universitário [UniCarioca](https://unicarioca.edu.br/).
+Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no centro universitário [UniCarioca](https://unicarioca.edu.br/).
 
 ### Atualmente estou focando em: 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### E já tive contato com:
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
