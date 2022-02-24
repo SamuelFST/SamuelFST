@@ -20,8 +20,9 @@ Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no centr
 <center>
 <table>
     <tr>
-        <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFST&hide=html&layout=compact&theme=tokyonight" />
-    </tr>   
+        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFST&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=SamuelFST&theme=tokyonight"/></td>
+    </tr>
 </table>
 </center>
 <!--
