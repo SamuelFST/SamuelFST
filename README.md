@@ -18,14 +18,14 @@ Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas no centr
 
 ## Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-fernando-45b4211b1/)](https://www.linkedin.com/in/samuel-fernando2002/)
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFST&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=SamuelFST&theme=tokyonight"/></td>
-    </tr>
-</table>
-</center>
+<p align="center">
+    <img width="550px" src="https://github-readme-streak-stats.herokuapp.com?user=samuelfst&theme=tokyonight&hide_border=falso&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+        <img width="400px" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFST&hide=html&layout=compact&theme=tokyonight" /></td>
+        <img width="400px" height="190px" align="justify" src="https://github-readme-stats.vercel.app/api?username=SamuelFST&theme=tokyonight"/></td>
+</p>
 <!--
 **SamuelFST/SamuelFST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
