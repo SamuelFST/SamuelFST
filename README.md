@@ -2,9 +2,9 @@
 
 Eu sou o Samuel Fernando! 😀
 
-Sou estudante do 6º semestre de Análise e Desenvolvimento de Sistemas no centro universitário [UniCarioca](https://unicarioca.edu.br/).
+Sou formado em Análise e Desenvolvimento de Sistemas pelo centro universitário [UniCarioca](https://unicarioca.edu.br/).
 
-## Principais tecnologias 
+## Principais tecnologias que eu uso
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,8 +21,8 @@ Sou estudante do 6º semestre de Análise e Desenvolvimento de Sistemas no centr
 </p>
 
 <p align="center">
-        <img width="400px" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFST&hide=html&layout=compact&theme=tokyonight" /></td>
-        <img width="400px" height="190px" align="justify" src="https://github-readme-stats.vercel.app/api?username=SamuelFST&theme=tokyonight"/></td>
+        <img width="400px" align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFST&hide=html&layout=compact&theme=tokyonight" />
+        <img width="400px" height="190px" align="justify" src="https://github-readme-stats.vercel.app/api?username=SamuelFST&theme=tokyonight"/>
 </p>
 <!--
 **SamuelFST/SamuelFST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
